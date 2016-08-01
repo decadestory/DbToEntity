@@ -1,0 +1,13 @@
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\bin\Debug\DbToEntity.exe.config
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\bin\Debug\DbToEntity.exe
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\bin\Debug\DbToEntity.pdb
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\bin\Debug\Orm.Son.dll
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\obj\Debug\DbToEntity.exe
+C:\Users\72824\Desktop\DbToEntity\DbToEntity\obj\Debug\DbToEntity.pdb
+E:\GitHub\DbToEntity\DbToEntity\bin\Debug\DbToEntity.exe.config
+E:\GitHub\DbToEntity\DbToEntity\obj\Debug\DbToEntity.exe
+E:\GitHub\DbToEntity\DbToEntity\obj\Debug\DbToEntity.pdb
+E:\GitHub\DbToEntity\DbToEntity\bin\Debug\DbToEntity.exe
+E:\GitHub\DbToEntity\DbToEntity\bin\Debug\DbToEntity.pdb
+E:\GitHub\DbToEntity\DbToEntity\bin\Debug\Orm.Son.dll
+E:\GitHub\DbToEntity\DbToEntity\obj\Debug\DbToEntity.csprojResolveAssemblyReference.cache
