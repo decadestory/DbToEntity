@@ -46,6 +46,10 @@ namespace DbToEntity.Core
             sb.AppendLine("*开源地址： https://github.com/decadestory/DbToEntity");
             sb.AppendLine("********************************************************/");
 
+            sb.AppendLine("");
+            sb.AppendLine("using System;");
+            sb.AppendLine("");
+
             sb.AppendLine("namespace " + nspace);
             sb.AppendLine("{");
             sb.AppendLine("\t public class " + tableName);
