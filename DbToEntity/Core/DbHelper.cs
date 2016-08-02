@@ -28,7 +28,7 @@ namespace DbToEntity.Core
                 var sql = @"select 
                 cast(ep.value as varchar) [Description],
                 (case when  ty.[name] in ('text','ntext' ,'char','nchar', 'varchar', 'nvarchar') then 'string'
-                when ty.[name] in ('date' , 'datetime' , 'datetime2') then 'DateTime'
+                when ty.[name] in ('date' , 'datetime' , 'datetime2','smalldatetime') then 'DateTime'
                 when ty.[name] in ('bit') then 'bool'
                 when ty.[name] in ('smallint') then 'short'
                 when ty.[name] in ('bigint') then 'long'
